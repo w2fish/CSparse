@@ -1,6 +1,6 @@
 #include "cs.h"
 /* y = A*x+y, A is symmetric, only upper triangle stored */
-csi cs_gaxpy (const cs *A, const double *x, double *y)
+csi cs_gaxpy_symm (const cs *A, const double *x, double *y)
 {
     csi p, j, n, *Ap, *Ai ;
     double *Ax ;
