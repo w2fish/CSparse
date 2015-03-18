@@ -9,7 +9,9 @@ CFLAGS = -O2 -fprofile-arcs -ftest-coverage \
     	-Wredundant-decls -Wnested-externs -Wdisabled-optimization -ansi \
 	-Wno-unused-parameter -I../Include -I../Demo
 
-ex: cs_ex2.1
+ex: $(CS) cs_ex2.1
+	find . -name "*.gcda" | xargs -r rm
+	find . -name "*.gcov" | xargs -r rm
 
 run: all run1 runbook run3 runtest
 	./covall
