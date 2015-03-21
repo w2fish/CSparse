@@ -12,8 +12,8 @@ csi cs_gaxpy_symm (const cs *A, const double *x, double *y)
         {
             y [Ai [p]] += Ax [p] * x [j] ;
             if(j != Ai[p])
-						{
-            		y [j] += Ax [p] * x [Ap[j]] ;
+			{
+           		y [j] += Ax [p] * x [Ai[p]] ;
             }
         }
     }

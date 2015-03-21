@@ -143,7 +143,8 @@ csn *cs_ndone (csn *N, cs *C, void *w, void *x, csi ok) ;
 
 /* my own function */
 csi cs_gatxpy (const cs *A, const double *x, double *y) ;
-
+csi cs_gaxpy_symm(const cs *A, const double *x, double *y) ;
+cs *cs_find (const cs *C) ;
 
 #define CS_MAX(a,b) (((a) > (b)) ? (a) : (b))
 #define CS_MIN(a,b) (((a) < (b)) ? (a) : (b))
