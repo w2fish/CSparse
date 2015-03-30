@@ -1,0 +1,447 @@
+cs_test, file: ../Matrix/ash219
+demo: 2
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.01 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.01 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00 resid: 1.61e-02
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+blocks: 1 singletons: 0 structural rank: 85
+QR   natural    time:     0.00 resid: 1.61e-02
+QR   amd(A'*A)  time:     0.00 resid: 1.61e-02
+demo 2 # trials: 145
+demo: 3
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+
+--- Matrix: 219-by-85, nnz: 438 (sym: 0: nnz 0), norm: 9.00e+00
+demo 3 # trials: 46

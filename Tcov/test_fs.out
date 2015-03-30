@@ -1,0 +1,2334 @@
+cs_test, file: ../Matrix/fs_183_1
+demo: 2
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.01     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.01 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.01     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.01 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.01 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.01     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.01 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.02 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.01     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.00 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.00 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00 resid: 6.98e-28
+
+--- Matrix: 183-by-183, nnz: 988 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+tiny entries dropped: 10
+blocks: 38 singletons: 37 structural rank: 183
+QR   natural    time:     0.01 resid: 6.84e-28
+QR   amd(A'*A)  time:     0.00 resid: 9.38e-28
+LU   natural    time:     0.01 resid: 6.20e-28
+LU   amd(A+A')  time:     0.00 resid: 1.55e-27
+LU   amd(S'*S)  time:     0.00 resid: 6.98e-28
+LU   amd(A'*A)  time:     0.00 resid: 6.98e-28
+demo 2 # trials: 272
+demo: 3
+
+--- Matrix: 183-by-183, nnz: 998 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+
+--- Matrix: 183-by-183, nnz: 998 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+
+--- Matrix: 183-by-183, nnz: 998 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+
+--- Matrix: 183-by-183, nnz: 998 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+
+--- Matrix: 183-by-183, nnz: 998 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+
+--- Matrix: 183-by-183, nnz: 998 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+
+--- Matrix: 183-by-183, nnz: 998 (sym: 0: nnz 0), norm: 1.70e+09
+zero entries dropped: 71
+demo 3 # trials: 52

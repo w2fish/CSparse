@@ -1,0 +1,497 @@
+cs_test, file: ../Matrix/lp_afiro
+demo: 2
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.01 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00 resid: 2.25e-16
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+blocks: 1 singletons: 0 structural rank: 27
+QR   natural    time:     0.00 resid: 3.96e-16
+QR   amd(A'*A)  time:     0.00 resid: 2.25e-16
+demo 2 # trials: 149
+demo: 3
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+
+--- Matrix: 27-by-51, nnz: 102 (sym: 0: nnz 0), norm: 3.43e+00
+demo 3 # trials: 40

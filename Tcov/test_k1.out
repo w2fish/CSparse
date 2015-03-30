@@ -1,0 +1,3620 @@
+cs_test, file: ../Matrix/bcsstk01
+demo: 2
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.01 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.01 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00     (failed)
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00     (failed)
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.01 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.01 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.01 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00     (failed)
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.01 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.01 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.01 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.01 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00     (failed)
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.01 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.01 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00     (failed)
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.01 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.01 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.01 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.01 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00     (failed)
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.01 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.01 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.01 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.01 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.01 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00     (failed)
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.01 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00 resid: 2.55e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+blocks: 1 singletons: 0 structural rank: 48
+QR   natural    time:     0.00 resid: 2.62e-19
+QR   amd(A'*A)  time:     0.00 resid: 5.27e-19
+LU   natural    time:     0.00 resid: 2.17e-19
+LU   amd(A+A')  time:     0.00 resid: 1.87e-19
+LU   amd(S'*S)  time:     0.00 resid: 2.38e-19
+LU   amd(A'*A)  time:     0.00 resid: 2.38e-19
+Chol natural    time:     0.00 resid: 2.64e-19
+Chol amd(A+A')  time:     0.00 resid: 2.55e-19
+demo 2 # trials: 335
+demo: 3
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.01
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+rechol:   time:     0.00 (incl solve) resid: 1.55e-18
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+rechol:   time:     0.00 (incl solve) resid: 1.55e-18
+downdate: time:     0.00
+downdate: time:     0.00 (incl solve) resid: 3.74e-17
+
+--- Matrix: 48-by-48, nnz: 224 (sym: -1: nnz 400), norm: 3.57e+09
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+solve    chol time     0.00
+original: resid: 2.55e-19
+update:   time:     0.00
+update:   time:     0.00 (incl solve) resid: 9.66e-19
+rechol:   time:     0.00 (incl solve) resid: 1.55e-18
+downdate: time:     0.00
+downdate: time:     0.00 (incl solve) resid: 3.74e-17
+demo 3 # trials: 149
