@@ -1,1 +1,0 @@
-../Source/compare_double.c
