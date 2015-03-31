@@ -7,7 +7,11 @@ cs *cs_expand(cs *A)
 	double *Ax, *Tx ;
 	if(!CS_CSC(A)) return NULL ;
 	m = A->m ; n = A->n ; Ap = A->p ; Ai = A->i ; Ax = A->x ; nzmax = A->nzmax ;
+<<<<<<< HEAD
 	T = cs_spalloc(m, n, nzmax, Ax != NULL, 1) ;
+=======
+	T = spalloc(m, n, nzmax, Ax != NULL, 1) ;
+>>>>>>> 2bf6615f0b36fdcc8d712bfd6fd96eb37dbac007
 	if(!T) return cs_done(T, NULL, NULL, 0) ;
 	Tp = T->p ; Ti = T->i ; Tx = T->x ;
 	for(j=0; j<n; j++)

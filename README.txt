@@ -87,8 +87,15 @@ cs_dupl.c       remove (and sum) duplicates
 cs_entry.c      add an entry to a triplet matrix
 cs_ereach.c     nonzero pattern of Cholesky L(k,:) from etree and triu(A(:,k))
 cs_etree.c      find elimination tree
+<<<<<<< HEAD
 cs_fkeep.c      drop entries from a sparse matrix
 cs_gaxpy.c      sparse matrix times dense matrix
+=======
+cs_find.c       convert CSC matrix into triplet form
+cs_fkeep.c      drop entries from a sparse matrix
+cs_gaxpy.c      sparse matrix times dense matrix
+cs_gatxpy.c     sparse matrix transpose times dense matrix
+>>>>>>> 2bf6615f0b36fdcc8d712bfd6fd96eb37dbac007
 cs.h            include file for CSparse
 cs_happly.c     apply Householder reflection
 cs_house.c      compute Householder reflection
