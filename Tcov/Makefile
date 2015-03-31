@@ -9,7 +9,9 @@ CFLAGS = -O2 -fprofile-arcs -ftest-coverage \
     	-Wredundant-decls -Wnested-externs -Wdisabled-optimization -ansi \
 	-Wno-unused-parameter -I../Include -I../Demo
 
-ex: $(CS) cs_ex2.1 cs_ex2.2 cs_ex2.3 cs_ex2.4 cs_ex2.5
+ex: $(CS) cs_ex2.1 cs_ex2.2 cs_ex2.3 cs_ex2.4 cs_ex2.5 \
+	cs_ex2.6 cs_ex2.7 \
+	test_cs_expand
 	find . -name "*.gcda" | xargs -r rm
 	find . -name "*.gcov" | xargs -r rm
 
@@ -28,7 +30,9 @@ CS = cs_add.o cs_amd.o cs_chol.o cs_cholsol.o cs_counts.o cs_cumsum.o \
 	cs_dmperm.o cs_updown.o cs_print.o cs_norm.o cs_load.o cs_dfs.o \
 	cstcov_malloc_test.o cs_utsolve.o cs_reach.o cs_spsolve.o cs_ereach.o \
 	cs_leaf.o cs_randperm.o \
-	cs_entry_submatrix.o cs_gatxpy.o cs_gaxpy_symm.o cs_find.o cs_scale.o
+	cs_expand.o \
+	cs_entry_submatrix.o cs_gatxpy.o cs_gaxpy_symm.o cs_find.o cs_scale.o \
+	cs_sort.o cs_transpose_triplet.o
 
 CS_EX = cs_ex2.1 cs_ex2.2
 
@@ -39,6 +43,11 @@ $(CS): ../Include/cs.h cstcov_malloc_test.h
 cs_dem%.c:
 	- ln -s ../Demo/$@
 
+cs_expand.c:
+	- ln -s ../Source/$@
+
+test_cs_expand.c:
+	- ln -s ../Demo/$@	
 #cs_expand.c:
 #	- ln -s ../Source/$@
 
@@ -57,6 +66,9 @@ cs_demo2: $(CS) cs_demo2.c cs_demo.c
 cs_demo3: $(CS) cs_demo3.c cs_demo.c
 	$(CC) $(CFLAGS) -o cs_demo3 cs_demo3.c cs_demo.c $(CS) -lm
 
+test_cs_expand: $(CS) test_cs_expand.c
+	$(CC) $(CFLAGS) -o test_cs_expand test_cs_expand.c $(CS) -lm
+
 cs_ex2.1: $(CS) cs_ex2.1.c
 	$(CC) $(CFLAGS) -o cs_ex2.1 cs_ex2.1.c $(CS) -lm
 
@@ -71,6 +83,12 @@ cs_ex2.4: $(CS) cs_ex2.4.c
 	
 cs_ex2.5: $(CS) cs_ex2.5.c
 	$(CC) $(CFLAGS) -o cs_ex2.5 cs_ex2.5.c $(CS) -lm
+	
+cs_ex2.6: $(CS) cs_ex2.6.c
+	$(CC) $(CFLAGS) -o cs_ex2.6 cs_ex2.6.c $(CS) -lm
+	
+cs_ex2.7: $(CS) cs_ex2.7.c
+	$(CC) $(CFLAGS) -o cs_ex2.7 cs_ex2.7.c $(CS) -lm
 	
 cstcov_test: $(CS) cstcov_test.c cs_demo.c
 	$(CC) $(CFLAGS) -o cstcov_test cstcov_test.c cs_demo.c $(CS) -lm

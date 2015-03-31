@@ -1,4 +1,5 @@
 /* 20150330 */
+/* Tim.D. book, ex2.5 */
 /* add a k-by-k dense matrix x to a triplet matrix T */
 #include "cs.h"
 csi cs_entry_submatrix(cs *T, int k, int *i, int *j, double **x)

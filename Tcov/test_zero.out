@@ -1,0 +1,863 @@
+cs_test, file: zero
+demo: 2
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00     (failed)
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00     (failed)
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00 resid:      nan
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+blocks: 2 singletons: 0 structural rank: 0
+QR   natural    time:     0.00 resid:      nan
+QR   amd(A'*A)  time:     0.00 resid:      nan
+demo 2 # trials: 133
+demo: 3
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+
+--- Matrix: 1-by-1, nnz: 0 (sym: 1: nnz 0), norm: 0.00e+00
+zero entries dropped: 1
+
+chol then update/downdate amd(A+A')  
+symbolic chol time     0.00
+numeric  chol time     0.00
+demo 3 # trials: 77

@@ -1,4 +1,5 @@
 /* convert CSC form into triplet form */
+/* Tim.D. book, ex2.2 */
 #include "cs.h"
 cs *cs_find (const cs *C)
 {

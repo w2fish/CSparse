@@ -1,4 +1,5 @@
 #include "cs.h"
+/* Tim.D. book, ex2.3 */
 /* y = A*x+y, A is symmetric, only upper triangle stored */
 csi cs_gaxpy_symm (const cs *A, const double *x, double *y)
 {

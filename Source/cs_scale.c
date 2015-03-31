@@ -1,4 +1,5 @@
 /* 20150330 */
+/* Tim.D. book, ex2.4 */
 /* overwrite A with RAC, where R and C is diagonal */
 #include "cs.h"
 void cs_scale(cs *A, double *r, double *c)

@@ -1,4 +1,5 @@
 #include "cs.h"
+/* Tim.D. book, ex2.1 */
 /* y = (A')*x+y */
 csi cs_gatxpy (const cs *A, const double *x, double *y)
 {
@@ -10,7 +11,8 @@ csi cs_gatxpy (const cs *A, const double *x, double *y)
     {
         for (p = Ap [j] ; p < Ap [j+1] ; p++)
         {
-            y [j] += Ax [p] * x [Ap[j]] ;
+            /* y [j] += Ax [p] * x [Ap[j]] ; */
+            y [j] += Ax [p] * x [Ai[p]] ;
         }
     }
     return (1) ;
