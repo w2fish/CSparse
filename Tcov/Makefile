@@ -10,7 +10,7 @@ CFLAGS = -O2 -fprofile-arcs -ftest-coverage \
 	-Wno-unused-parameter -I../Include -I../Demo
 
 ex: $(CS) cs_ex2.1 cs_ex2.2 cs_ex2.3 cs_ex2.4 cs_ex2.5 \
-	cs_ex2.6 cs_ex2.7 \
+	cs_ex2.6 cs_ex2.7 cs_ex2.8 \
 	test_cs_expand
 	find . -name "*.gcda" | xargs -r rm
 	find . -name "*.gcov" | xargs -r rm
@@ -32,7 +32,8 @@ CS = cs_add.o cs_amd.o cs_chol.o cs_cholsol.o cs_counts.o cs_cumsum.o \
 	cs_leaf.o cs_randperm.o \
 	cs_expand.o \
 	cs_entry_submatrix.o cs_gatxpy.o cs_gaxpy_symm.o cs_find.o cs_scale.o \
-	cs_sort.o cs_transpose_triplet.o
+	cs_sort.o cs_sort_slow.o cs_transpose_triplet.o \
+	compare_double.o
 
 CS_EX = cs_ex2.1 cs_ex2.2
 
@@ -55,6 +56,9 @@ cs_ex%.c:
 	- ln -s ../Demo/$@
 
 cs_%.c:
+	- ln -s ../Source/$@
+
+compare_double.c:
 	- ln -s ../Source/$@
 
 cs_demo1: $(CS) cs_demo1.c
@@ -89,6 +93,9 @@ cs_ex2.6: $(CS) cs_ex2.6.c
 	
 cs_ex2.7: $(CS) cs_ex2.7.c
 	$(CC) $(CFLAGS) -o cs_ex2.7 cs_ex2.7.c $(CS) -lm
+	
+cs_ex2.8: $(CS) cs_ex2.8.c
+	$(CC) $(CFLAGS) -o cs_ex2.8 cs_ex2.8.c $(CS) -lm
 	
 cstcov_test: $(CS) cstcov_test.c cs_demo.c
 	$(CC) $(CFLAGS) -o cstcov_test cstcov_test.c cs_demo.c $(CS) -lm

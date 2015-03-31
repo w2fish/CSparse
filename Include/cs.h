@@ -141,7 +141,7 @@ cs *cs_done (cs *C, void *w, void *x, csi ok) ;
 csi *cs_idone (csi *p, cs *C, void *w, csi ok) ;
 csn *cs_ndone (csn *N, cs *C, void *w, void *x, csi ok) ;
 
-/* my own function */
+/* my own cs function */
 csi cs_entry_submatrix(cs *T, int k, int *i, int *j, double **x) ;
 cs *cs_expand(cs *A) ;
 csi cs_gatxpy (const cs *A, const double *x, double *y) ;
@@ -149,7 +149,11 @@ csi cs_gaxpy_symm(const cs *A, const double *x, double *y) ;
 cs *cs_find (const cs *C) ;
 void cs_scale(cs *A, double *x, double *y) ;
 cs *cs_sort(cs *A) ;
+cs *cs_sort_slow(cs *A) ;
 cs *cs_transpose_triplet(const cs *T, csi values) ;
+
+/* my own utilities */
+int compare_double(const void *a, const void *b) ;
 
 #define CS_MAX(a,b) (((a) > (b)) ? (a) : (b))
 #define CS_MIN(a,b) (((a) < (b)) ? (a) : (b))
