@@ -8,7 +8,7 @@ int main(int argc, char * argv[])
 	int print = atoi(argv[1]);
 	clock_t time ;
 	csi flag ;
-	cs *T, *A, *As ;
+	cs *T = NULL, *A = NULL, *As = NULL ;
 	FILE *fp ;
 	char fileMatrix[256] = "fileMatrix" ;
 	
@@ -43,6 +43,7 @@ int main(int argc, char * argv[])
 	/* release */
 	cs_spfree(A) ;
 	cs_spfree(As) ;
+	cs_spfree(T) ;
 
 	return 0 ;
 }

@@ -1,10 +1,14 @@
-/* test cs_gaxpy_symm() */
+/* 20150402 */
+/* test cs_gaxpy_triplet */
+/* y = T*x+y */
 #include "cs.h"
-int main()
+int main(int argc, char * argv[])
 {
-	cs *A, *T ;
+	cs *T ;
 	int i = 0 ;
 	csi m = 3, n = 3 ;
+	m = atoi(argv[1]) ;
+	n = atoi(argv[2]) ;
 	csi flag = 0 ;
 	FILE *fp ;
 	char fileMatrix[256] = "fileMatrix" ;
@@ -13,13 +17,10 @@ int main()
 	/* allocate x, y */
 	double *x = (double *)malloc(sizeof(double) * n) ;
 	double *y = (double *)malloc(sizeof(double) * m) ;
-	/* read A from file */
+	/* read T from file */
 	fp = fopen(fileMatrix, "r") ;
 	T = cs_load(fp) ; /* load triplet matrix T from stdin */
 	fclose(fp);
-	printf("T = \n") ; cs_print(T, 0) ;
-	A = cs_compress(T) ; /* A = CSC form of T */
-	printf("A = \n") ; cs_print(A, 0) ;
 	/* read x from file */
 	fp = fopen(fileVectorX, "r") ;
 	for(i=0; i<n; i++)
@@ -32,20 +33,8 @@ int main()
 	{
 		fscanf(fp, "%lf", &(y[i])) ;
 	}
-	/* print x */
-	printf("x = \n") ;
-	for(i=0; i<n; i++)
-	{
-		printf("%lf\n", x[i]) ;
-	}
-	/* print y0 */
-	printf("y0 = \n") ;
-	for(i=0; i<m; i++)
-	{
-		printf("%lf\n", y[i]) ;
-	}
-	/* calculate y = A * x + y where A is symmetric*/
-	flag = cs_gaxpy_symm(A, x, y) ;
+	/* calculate y = T * x + y */
+	flag = cs_gaxpy_triplet(T, x, y) ;
 	if(!flag) 
 	{
 		printf("fail, quit...\n") ;
@@ -59,7 +48,7 @@ int main()
 	}
 	/* release */
 	printf("release...\n") ;
-	cs_spfree(A) ;
+	cs_spfree(T) ;
 	free(x) ;
 	free(y) ;
 	printf("release done.\n") ;
