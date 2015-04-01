@@ -7,12 +7,12 @@ cs *cs_sort(cs *A)
 	cs *At, *Att ;
 
 	/* method 1 */
-	/*At = cs_transpose(A, 1) ;
+	At = cs_transpose(A, 1) ;
 	Att = cs_transpose(At, 1) ;
-	cs_spfree(At) ; */
+	cs_spfree(At) ; 
 
 	/* method 2 */
-	Att = cs_transpose(cs_transpose(A, 1), 1) ;
+	/*Att = cs_transpose(cs_transpose(A, 1), 1) ;*/
 
 	return Att ;
 }
