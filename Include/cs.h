@@ -151,6 +151,7 @@ csi cs_gaxpy_triplet(const cs *T, const double *x, double *y) ;
 cs *cs_find (const cs *C) ;
 void cs_scale(cs *A, double *x, double *y) ;
 cs *cs_sort(cs *A) ;
+cs *cs_sort2(cs *A) ;
 cs *cs_sort_slow(const cs *A) ;
 cs *cs_sort_fast(cs *A) ;
 cs *cs_transpose_triplet(const cs *T, csi values) ;
