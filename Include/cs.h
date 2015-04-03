@@ -143,13 +143,19 @@ csn *cs_ndone (csn *N, cs *C, void *w, void *x, csi ok) ;
 
 /* my own cs function */
 cs *cs_compress2(const cs *T) ;
+cs *cs_copy(cs *A) ;
 csi cs_entry_submatrix(cs *T, int k, int *i, int *j, double **x) ;
 cs *cs_expand(cs *A) ;
 csi cs_gatxpy (const cs *A, const double *x, double *y) ;
 csi cs_gaxpy_symm(const cs *A, const double *x, double *y) ;
 csi cs_gaxpy_triplet(const cs *T, const double *x, double *y) ;
+<<<<<<< HEAD
 cs *cs_find (const cs *C) ;
 int cs_ok(cs *A, int sorted, int values, int print) ;
+=======
+cs *cs_find (const cs *A) ;
+int cs_issym(cs *A) ;
+>>>>>>> 7cd434579a12e8c4cd3531ad3c520e58801e67af
 void cs_scale(cs *A, double *x, double *y) ;
 cs *cs_sort(cs *A) ;
 cs *cs_sort2(cs *A) ;

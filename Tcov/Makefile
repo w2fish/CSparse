@@ -11,7 +11,11 @@ CFLAGS = -O2 -fprofile-arcs -ftest-coverage \
 
 ex: $(CS) cs_ex2.1 cs_ex2.2 cs_ex2.3 cs_ex2.4 cs_ex2.5 \
 	cs_ex2.6 cs_ex2.7 cs_ex2.8 cs_ex2.9 cs_ex2.10 \
+<<<<<<< HEAD
 	cs_ex2.11 cs_ex2.12 \
+=======
+	cs_ex2.11 cs_ex2.13 cs_ex2.14 \
+>>>>>>> 7cd434579a12e8c4cd3531ad3c520e58801e67af
 	test_cs_expand test_create_fileMatrix
 	find . -name "*.gcda" | xargs -r rm
 	find . -name "*.gcov" | xargs -r rm
@@ -32,9 +36,13 @@ CS = cs_add.o cs_amd.o cs_chol.o cs_cholsol.o cs_counts.o cs_cumsum.o \
 	cstcov_malloc_test.o cs_utsolve.o cs_reach.o cs_spsolve.o cs_ereach.o \
 	cs_leaf.o cs_randperm.o \
 	cs_expand.o \
-	cs_compress2.o \
+	cs_compress2.o cs_copy.o \
 	cs_entry_submatrix.o cs_gatxpy.o cs_gaxpy_symm.o cs_gaxpy_triplet.o \
+<<<<<<< HEAD
 	cs_find.o cs_ok.o cs_scale.o \
+=======
+	cs_find.o cs_issym.o cs_scale.o \
+>>>>>>> 7cd434579a12e8c4cd3531ad3c520e58801e67af
 	cs_sort.o cs_sort2.o \
 	cs_sort_fast.o cs_sort_slow.o cs_transpose_triplet.o \
 	util_compare_double.o
@@ -114,6 +122,15 @@ cs_ex2.11: $(CS) cs_ex2.11.c
 cs_ex2.12: $(CS) cs_ex2.12.c
 	$(CC) $(CFLAGS) -o cs_ex2.12 cs_ex2.12.c $(CS) -lm
 	
+<<<<<<< HEAD
+=======
+cs_ex2.13: $(CS) cs_ex2.13.c
+	$(CC) $(CFLAGS) -o cs_ex2.13 cs_ex2.13.c $(CS) -lm
+	
+cs_ex2.14: $(CS) cs_ex2.14.c
+	$(CC) $(CFLAGS) -o cs_ex2.14 cs_ex2.14.c $(CS) -lm
+	
+>>>>>>> 7cd434579a12e8c4cd3531ad3c520e58801e67af
 cstcov_test: $(CS) cstcov_test.c cs_demo.c
 	$(CC) $(CFLAGS) -o cstcov_test cstcov_test.c cs_demo.c $(CS) -lm
 
@@ -162,8 +179,15 @@ readhb.f:
 	- ln -s readhb.f
 
 clean:
+<<<<<<< HEAD
 	- $(RM) *.o *.bbg *.da *.gcov *.gcda *.gcno cs_* test_* *.exe .*.un~
 	- $(RM) ../Demo/.*.un~
+=======
+	- $(RM) *.o *.bbg *.da *.gcov *.gcda *.gcno cs_* test_* *.exe .*.un~ *~ Makefile~
+	- $(RM) ../Demo/.*.un~ ../Demo/cs_*.c~
+	- $(RM) ../Source/.*.un~ ../Source/cs_*.c~
+	- $(RM) ../Include/.*.un~ ../Include/cs.h~
+>>>>>>> 7cd434579a12e8c4cd3531ad3c520e58801e67af
 
 purge: distclean
 
