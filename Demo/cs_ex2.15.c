@@ -3,10 +3,12 @@
 #include "cs.h"
 int main(int argc, char * argv [])
 {
+	int k1 = atoi(argv[1]) ;
+	int k2 = atoi(argv[2]) ;
 	cs *T = NULL, *A = NULL ;
 	FILE *fp ;
 	char fileMatrix[256] = "fileMatrix" ;
-	int flag ;
+	csi flag ;
 	
 	/* read T from file */
 	fp = fopen(fileMatrix, "r") ;
@@ -25,4 +27,19 @@ int main(int argc, char * argv [])
 
 	/* compress T into A */
 	A = cs_compress(T) ; /* A = CSC form of T */
+	printf("A = \n") ; cs_print(A, 0) ;
+
+	/* remove entry outside band k1 to k2 */
+	flag = cs_band(A, (csi)k1, (csi)k2) ;
+	if (flag < 0)
+	{
+		printf("cs_band fail, quit\n") ; return 0 ;
+	}
+	printf("band A = \n") ; cs_print(A, 0) ;
+
+	/* release */
+	cs_spfree(A) ;
+	cs_spfree(T) ;
+
+	return 0 ;
 }

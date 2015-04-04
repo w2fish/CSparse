@@ -28,6 +28,7 @@ int main(int argc, char * argv[])
 			ti = rand() % m ;
 			tj = rand() % n ;
 			fprintf(fp, "%d\t%d\t%d\n", ti, tj, t) ;
+		/*	fprintf(fp, "%d\t%d\t%d\n", i, j, t) ;*/
 		}
 	}
 	fclose(fp) ;

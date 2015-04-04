@@ -9,10 +9,11 @@ static csi cs_inband(csi l, csi h, csi i, csi j, void *other)
 csi cs_band(cs *A, csi k1, csi k2)
 {
 	csi n, j, p, nz = 0, *Ai, *Ap ;
+	double *Ax ;
 	if (!CS_CSC(A)) return -1 ;
 	csi l = k1 > k2 ? k2 : k1 ; /* lower bound */
 	csi h = k1 > k2 ? k1 : k2 ; /* upper bound */
-	n = A->n ; Ai = A->i ; Ap = A->p ;
+	n = A->n ; Ai = A->i ; Ap = A->p ; Ax = A->x ;
 	for(j=0; j<n; j++)
 	{
 		p = Ap[j] ;
