@@ -154,8 +154,14 @@ csi cs_gaxpy_triplet(const cs *T, const double *x, double *y) ;
 cs *cs_find (const cs *A) ;
 int cs_issorted(cs *A) ;
 int cs_issym(cs *A) ;
+cs *cs_multiply2 (const cs *A, const cs *B) ;
+cs *cs_multiply3 (const cs *A, const cs *B) ;
 int cs_ok(cs *A, int sorted, int values, int print) ;
+cs *cs_saxpy(const cs *A, const cs *B, double alpha, double beta, 
+			 csi *w, double *x) ;
 void cs_scale(cs *A, double *x, double *y) ;
+csi cs_scatter2 (const cs *A, csi j, double beta, csi *w, double *x, csi mark,
+    cs *C, csi nz, int init) ;
 cs *cs_sort(cs *A) ;
 cs *cs_sort2(cs *A) ;
 cs *cs_sort_slow(const cs *A) ;
