@@ -152,6 +152,7 @@ csi cs_gatxpy (const cs *A, const double *x, double *y) ;
 csi cs_gaxpy_symm(const cs *A, const double *x, double *y) ;
 csi cs_gaxpy_triplet(const cs *T, const double *x, double *y) ;
 cs *cs_find (const cs *A) ;
+cs *cs_hcat(const cs *A, const cs *B) ;
 int cs_issorted(cs *A) ;
 int cs_issym(cs *A) ;
 cs *cs_multiply2 (const cs *A, const cs *B) ;
@@ -167,7 +168,9 @@ cs *cs_sort2(cs *A) ;
 cs *cs_sort_slow(const cs *A) ;
 cs *cs_sort_fast(cs *A) ;
 cs *cs_spcolm(double *D, csi m, csi n) ;
+cs *cs_subm(const cs *Ai, csi i1, csi i2, csi j1, csi j2) ;
 cs *cs_transpose_triplet(const cs *T, csi values) ;
+cs *cs_vcat(const cs *A, const cs *B) ;
 
 /* my own utilities */
 int compare_double(const void *a, const void *b) ;
