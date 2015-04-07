@@ -4,7 +4,7 @@ V =
 
 # Linux test coverage
 CC = gcc
-CFLAGS = -O2 -fprofile-arcs -ftest-coverage \
+CFLAGS = -g -fprofile-arcs -ftest-coverage \
     	-Wall -W -Wshadow -Wmissing-prototypes -Wstrict-prototypes \
     	-Wredundant-decls -Wnested-externs -Wdisabled-optimization -ansi \
 	-Wno-unused-parameter -I../Include -I../Demo
@@ -13,7 +13,7 @@ ex: $(CS) cs_ex2.1 cs_ex2.2 cs_ex2.3 cs_ex2.4 cs_ex2.5 \
 	cs_ex2.6 cs_ex2.7 cs_ex2.8 cs_ex2.9 cs_ex2.10 \
 	cs_ex2.11 cs_ex2.12 cs_ex2.13 cs_ex2.14 cs_ex2.15 \
 	cs_ex2.16 cs_ex2.18 cs_ex2.19 cs_ex2.20 cs_ex2.21 \
-	cs_ex2.22 cs_ex2.23 \
+	cs_ex2.22 cs_ex2.23 cs_ex2.24 \
 	test_cs_expand test_create_fileMatrix
 	find . -name "*.gcda" | xargs -r rm
 	find . -name "*.gcov" | xargs -r rm
@@ -40,7 +40,7 @@ CS = cs_add.o cs_amd.o cs_chol.o cs_cholsol.o cs_counts.o cs_cumsum.o \
 	cs_issorted.o cs_issym.o cs_multiply2.o cs_multiply3.o \
 	cs_ok.o cs_saxpy.o cs_scale.o \
 	cs_scatter2.o cs_sort.o cs_sort2.o \
-	cs_sort_fast.o cs_sort_slow.o cs_spcolm.o cs_subm.o \
+	cs_sort_fast.o cs_sort_slow.o cs_spcolm.o cs_subm.o cs_subm2.o \
 	cs_transpose_triplet.o \
 	cs_vcat.o \
 	util_compare_double.o
@@ -150,6 +150,9 @@ cs_ex2.22: $(CS) cs_ex2.22.c
 cs_ex2.23: $(CS) cs_ex2.23.c
 	$(CC) $(CFLAGS) -o cs_ex2.23 cs_ex2.23.c $(CS) -lm
 	
+cs_ex2.24: $(CS) cs_ex2.24.c
+	$(CC) $(CFLAGS) -o cs_ex2.24 cs_ex2.24.c $(CS) -lm
+	
 cstcov_test: $(CS) cstcov_test.c cs_demo.c
 	$(CC) $(CFLAGS) -o cstcov_test cstcov_test.c cs_demo.c $(CS) -lm
 
@@ -200,7 +203,7 @@ readhb.f:
 clean:
 	- $(RM) *.o *.bbg *.da *.gcov *.gcda *.gcno cs_* test_*  \
 	        *.exe .*.un~ *~ Makefile~
-	- $(RM) ../Demo/.*.un~ ../Demo/cs_*.c~
+	- $(RM) ../Demo/.*.un~ ../Demo/*.c~
 	- $(RM) ../Source/.*.un~ ../Source/cs_*.c~
 	- $(RM) ../Include/.*.un~ ../Include/cs.h~
 

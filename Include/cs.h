@@ -169,6 +169,7 @@ cs *cs_sort_slow(const cs *A) ;
 cs *cs_sort_fast(cs *A) ;
 cs *cs_spcolm(double *D, csi m, csi n) ;
 cs *cs_subm(const cs *Ai, csi i1, csi i2, csi j1, csi j2) ;
+cs *cs_subm2(cs *A, int *iv, int il, int *jv, int jl) ;
 cs *cs_transpose_triplet(const cs *T, csi values) ;
 cs *cs_vcat(const cs *A, const cs *B) ;
 
