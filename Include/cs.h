@@ -158,6 +158,7 @@ int cs_issym(cs *A) ;
 cs *cs_multiply2 (const cs *A, const cs *B) ;
 cs *cs_multiply3 (const cs *A, const cs *B) ;
 int cs_ok(cs *A, int sorted, int values, int print) ;
+cs *cs_permtranspose(const cs *A, const csi *pinv, const csi *qinv, csi values) ;
 cs *cs_saxpy(const cs *A, const cs *B, double alpha, double beta, 
 			 csi *w, double *x) ;
 void cs_scale(cs *A, double *x, double *y) ;
