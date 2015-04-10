@@ -17,7 +17,7 @@ cs *cs_permtranspose(const cs *A, const csi *pinv, const csi *qinv, csi values)
 	m = A->m ; n = A->n ; Ai = A->i ; Ap = A->p ; Ax = A->x ;
 	/* allocate C and workspace w */
 	C = cs_spalloc(n, m, Ap[n], values && Ax != NULL, 0) ;
-	w = cs_calloc(n, sizeof(csi)) ;
+	w = cs_calloc(m, sizeof(csi)) ;
 	if (!C || !w)
 	{
 		printf("allocate C or w fail, quit\n") ; 
@@ -29,7 +29,7 @@ cs *cs_permtranspose(const cs *A, const csi *pinv, const csi *qinv, csi values)
 	{
 		w [ pinv ? pinv[Ai[p]] : Ai[p] ] ++ ;
 	}
-	cs_cumsum(Cp, w, n) ;
+	cs_cumsum(Cp, w, m) ;
 	/* copy A to C */
 	for (j=0; j<n; j++)
 	{
@@ -37,7 +37,7 @@ cs *cs_permtranspose(const cs *A, const csi *pinv, const csi *qinv, csi values)
 		for (p=Ap[j]; p<Ap[j+1]; p++)
 		{
 			t = pinv ? pinv[Ai[p]] : Ai[p] ; /* row Ai[p] of A is row */
-											 /* pinv[Ai[p]] of A(p,q) */
+							 /* pinv[Ai[p]] of A(p,q) */
 			Ci[q = w[t]++] = k ;
 			if (values) Cx[q] = Ax[p] ;
 		}

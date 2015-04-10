@@ -209,7 +209,7 @@ readhb.f:
 
 clean:
 	- $(RM) *.o *.bbg *.da *.gcov *.gcda *.gcno cs_* test_*  \
-	        *.exe .*.un~ *~ Makefile~
+	        *.exe .*.un~ *~ Makefile~ .*.swp
 	- $(RM) ../Demo/.*.un~ ../Demo/*.c~
 	- $(RM) ../Source/.*.un~ ../Source/cs_*.c~
 	- $(RM) ../Include/.*.un~ ../Include/cs.h~
