@@ -151,6 +151,8 @@ cs *cs_expand(cs *A) ;
 csi cs_gatxpy (const cs *A, const double *x, double *y) ;
 csi cs_gaxpy_symm(const cs *A, const double *x, double *y) ;
 csi cs_gaxpy_triplet(const cs *T, const double *x, double *y) ;
+csi *cs_gaxpym(int major, csi M, csi N, csi K,
+              cs *A, double *X, double *Y) ;
 cs *cs_find (const cs *A) ;
 cs *cs_hcat(const cs *A, const cs *B) ;
 int cs_issorted(cs *A) ;

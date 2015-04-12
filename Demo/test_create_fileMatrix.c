@@ -22,19 +22,28 @@ int main(int argc, char * argv[])
 		printf("open fileMatrix to write fail, quit\n") ;
 		return 1 ;
 	}
-	for(i=0; i<m; i++)
+	if (random)
 	{
-		for(j=0; j<n; j++)
+		for(i=0; i<m/10; i++)
 		{
-			t = rand() % 10 -4  ;
-			ti = rand() % m ;
-			tj = rand() % n ;
-			if (random)
+			for(j=0; j<n/10; j++)
 			{
+				t = rand() % 10 -4  ;
+				ti = rand() % m ;
+				tj = rand() % n ;
 				fprintf(fp, "%d\t%d\t%d\n", ti, tj, t) ;
 			}
-			else
+		}
+	}
+	else
+	{
+		for(i=0; i<m; i++)
+		{
+			for(j=0; j<n; j++)
 			{
+				t = rand() % 10 -4  ;
+				ti = rand() % m ;
+				tj = rand() % n ;
 				fprintf(fp, "%d\t%d\t%d\n", i, j, t) ;
 			}
 		}
