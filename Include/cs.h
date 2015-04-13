@@ -142,6 +142,7 @@ csi *cs_idone (csi *p, cs *C, void *w, csi ok) ;
 csn *cs_ndone (csn *N, cs *C, void *w, void *x, csi ok) ;
 
 /* my own cs function */
+csi cs_addemp(cs *A, int RowOrCol, csi k, csi start) ;
 csi cs_band(cs *A, csi k1, csi k2) ;
 cs *cs_compress2(const cs *T) ;
 cs *cs_copy(cs *A) ;
@@ -149,6 +150,8 @@ double cs_dot(cs *x, cs *y) ;
 csi cs_entry_submatrix(cs *T, int k, int *i, int *j, double **x) ;
 cs *cs_expand(cs *A) ;
 csi cs_gatxpy (const cs *A, const double *x, double *y) ;
+csi *cs_gatxpym(int major, csi M, csi N, csi K,
+              cs *A, double *X, double *Y) ;
 csi cs_gaxpy_symm(const cs *A, const double *x, double *y) ;
 csi cs_gaxpy_triplet(const cs *T, const double *x, double *y) ;
 csi *cs_gaxpym(int major, csi M, csi N, csi K,

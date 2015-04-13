@@ -1,18 +1,18 @@
-/* 20150412 */
-/* test cs_gaxpym */
-/* Y = A * X + Y */
+/* 20150413 */
+/* test cs_gatxpym */
+/* Y = A' * X + Y */
 /* X, Y is dense matrix */
 /* 3 versions: [1] X, Y col major */
 /*             [2] X, Y row major */
 /*             [3] X, Y col major but operate 32 col at a t */
 /* paramters: major: COL, ROW, COL1 */
 /*            M: row # of Y */
-/*            N: col # of A */
+/*            N: col # of A' */
 /*            K: col # of Y */
-/* command: cs_ex2.27 print rowY colA colY major */
+/* command: cs_ex2.28 print rowY colA' colY major */
 /* running time comparison for m=3000, n=6000, K=1000: */
-/* [1]: 100%      [2] 90%      [3] 139%     gcc -g   */
-/* [1]: 100%      [2] 110%     [3] 289%     gcc -O2  */
+/* [1]: 100%      [2] 46%      [3] 76%     gcc -O2 */
+/* [1]: 100%      [2] 86%      [3] 135%    gcc -g  */
 /* trying with different b, b = 16 is best for [3] @ gcc -O2 */
 #include "cs.h"
 #include <time.h>
@@ -155,16 +155,16 @@ int main(int argc, char * argv[])
 			printf("\n") ;
 		}
 	}
-	/* calculate Y = A * X + Y */
+	/* calculate Y = A' * X + Y */
 	t = clock() ;
-	if (major == COL) flag = cs_gaxpym(major, m, n, K, A, X, Y) ;
-	else if (major == ROW) flag = cs_gaxpym(major, m, n, K, A, Xrow, Yrow) ;
-	else if (major == COL1) flag = cs_gaxpym(major, m, n, K, A, X1, Y1) ;
+	if (major == COL) flag = cs_gatxpym(major, m, n, K, A, X, Y) ;
+	else if (major == ROW) flag = cs_gatxpym(major, m, n, K, A, Xrow, Yrow) ;
+	else if (major == COL1) flag = cs_gatxpym(major, m, n, K, A, X1, Y1) ;
 	t = clock() - t ;
 	printf("major = %d\tt = %lf s\n", major, (double)t/CLOCKS_PER_SEC) ;
 	if (!flag) 
 	{
-		printf("major = %d, cs_gaxpym fail, quit\n", major) ; return 0 ;
+		printf("major = %d, cs_gatxpym fail, quit\n", major) ; return 0 ;
 	}
 	/* print */
 	if (print)

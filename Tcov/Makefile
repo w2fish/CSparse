@@ -4,7 +4,7 @@ V =
 
 # Linux test coverage
 CC = gcc
-CFLAGS = -g -fprofile-arcs -ftest-coverage \
+CFLAGS = -O2 -fprofile-arcs -ftest-coverage \
     	-Wall -W -Wshadow -Wmissing-prototypes -Wstrict-prototypes \
     	-Wredundant-decls -Wnested-externs -Wdisabled-optimization -ansi \
 	-Wno-unused-parameter -I../Include -I../Demo
@@ -14,7 +14,7 @@ ex: $(CS) cs_ex2.1 cs_ex2.2 cs_ex2.3 cs_ex2.4 cs_ex2.5 \
 	cs_ex2.11 cs_ex2.12 cs_ex2.13 cs_ex2.14 cs_ex2.15 \
 	cs_ex2.16 cs_ex2.18 cs_ex2.19 cs_ex2.20 cs_ex2.21 \
 	cs_ex2.22 cs_ex2.23 cs_ex2.24 cs_ex2.25 cs_ex2.26 \
-	cs_ex2.27 \
+	cs_ex2.27 cs_ex2.28 cs_ex2.29 \
 	test_cs_expand test_create_fileMatrix
 	find . -name "*.gcda" | xargs -r rm
 	find . -name "*.gcov" | xargs -r rm
@@ -35,8 +35,9 @@ CS = cs_add.o cs_amd.o cs_chol.o cs_cholsol.o cs_counts.o cs_cumsum.o \
 	cstcov_malloc_test.o cs_utsolve.o cs_reach.o cs_spsolve.o cs_ereach.o \
 	cs_leaf.o cs_randperm.o \
 	cs_expand.o \
-	cs_band.o cs_compress2.o cs_copy.o cs_dot.o \
-	cs_entry_submatrix.o cs_gatxpy.o cs_gaxpy_symm.o cs_gaxpy_triplet.o \
+	cs_addemp.o cs_band.o cs_compress2.o cs_copy.o cs_dot.o \
+	cs_entry_submatrix.o cs_gatxpy.o cs_gatxpym.o \
+	cs_gaxpy_symm.o cs_gaxpy_triplet.o \
 	cs_gaxpym.o cs_find.o cs_hcat.o \
 	cs_issorted.o cs_issym.o cs_multiply2.o cs_multiply3.o \
 	cs_ok.o cs_permtranspose.o cs_saxpy.o cs_scale.o \
@@ -164,6 +165,12 @@ cs_ex2.26: $(CS) cs_ex2.26.c
 cs_ex2.27: $(CS) cs_ex2.27.c
 	$(CC) $(CFLAGS) -o cs_ex2.27 cs_ex2.27.c $(CS) -lm
 	
+cs_ex2.28: $(CS) cs_ex2.28.c
+	$(CC) $(CFLAGS) -o cs_ex2.28 cs_ex2.28.c $(CS) -lm
+	
+cs_ex2.29: $(CS) cs_ex2.29.c
+	$(CC) $(CFLAGS) -o cs_ex2.29 cs_ex2.29.c $(CS) -lm
+	
 cstcov_test: $(CS) cstcov_test.c cs_demo.c
 	$(CC) $(CFLAGS) -o cstcov_test cstcov_test.c cs_demo.c $(CS) -lm
 
@@ -214,7 +221,7 @@ readhb.f:
 clean:
 	- $(RM) *.o *.bbg *.da *.gcov *.gcda *.gcno cs_* test_*  \
 	        *.exe .*.un~ *~ Makefile~ .*.swp
-	- $(RM) ../Demo/.*.un~ ../Demo/*.c~
+	- $(RM) ../Demo/.*.un~ ../Demo/*.c~ ../Demo/.*.swp
 	- $(RM) ../Source/.*.un~ ../Source/cs_*.c~
 	- $(RM) ../Include/.*.un~ ../Include/cs.h~
 
