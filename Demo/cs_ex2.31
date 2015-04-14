@@ -1,0 +1,2 @@
+CS functions that do NOT work on sparse matrix with duplicate entries:
+[1] cs_dot

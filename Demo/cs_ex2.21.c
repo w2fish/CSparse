@@ -89,7 +89,7 @@ int main(int argc, char * argv[])
 		{
 			printf("cs_add fail, quit\n") ; return 0 ;
 		}
-		C = cs_spfree(C) ;
+		if (i < loop-1) C = cs_spfree(C) ;
 	}
 	t = clock() - t ;
 	printf("cs_add time = %lf s \n", (double)t/CLOCKS_PER_SEC) ;
@@ -102,7 +102,7 @@ int main(int argc, char * argv[])
 		{
 			printf("cs_saxpy fail, quit\n") ; return 0 ;
 		}
-		D = cs_spfree(D) ;
+		if (i < loop-1) D = cs_spfree(D) ;
 	}
 	t = clock() - t ;
 	printf("cs_saxpy time = %lf s \n", (double)t/CLOCKS_PER_SEC) ;
