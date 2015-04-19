@@ -160,6 +160,8 @@ cs *cs_find (const cs *A) ;
 cs *cs_hcat(const cs *A, const cs *B) ;
 int cs_issorted(cs *A) ;
 int cs_issym(cs *A) ;
+csi cs_lsolvecp(const cs *L, double *x) ;
+csi cs_lsolverp(const cs *L, double *x) ;
 cs *cs_multiply2 (const cs *A, const cs *B) ;
 cs *cs_multiply3 (const cs *A, const cs *B) ;
 int cs_ok(cs *A, int sorted, int values, int print) ;
@@ -178,6 +180,8 @@ cs *cs_subm(const cs *Ai, csi i1, csi i2, csi j1, csi j2) ;
 cs *cs_subm2(cs *A, int *iv, int il, int *jv, int jl) ;
 cs *cs_subm3(cs *A, cs *C, int *iv, int il, int *jv, int jl) ;
 cs *cs_transpose_triplet(const cs *T, csi values) ;
+csi cs_usolvecp(const cs *U, double *x) ;
+csi cs_usolverp(const cs *U, double *x) ;
 cs *cs_vcat(const cs *A, const cs *B) ;
 
 /* my own utilities */
