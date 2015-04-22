@@ -236,7 +236,7 @@ clean:
 	- $(RM) *.o *.bbg *.da *.gcov *.gcda *.gcno cs_* test_*  \
 	        *.exe .*.un~ *~ Makefile~ .*.swp
 	- $(RM) ../Demo/.*.un~ ../Demo/*.c~ ../Demo/.*.swp
-	- $(RM) ../Source/.*.un~ ../Source/cs_*.c~
+	- $(RM) ../Source/.*.un~ ../Source/cs_*.c~ ../Source/util_*.c~
 	- $(RM) ../Include/.*.un~ ../Include/cs.h~
 
 purge: distclean

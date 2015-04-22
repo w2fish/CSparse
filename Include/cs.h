@@ -187,6 +187,26 @@ cs *cs_vcat(const cs *A, const cs *B) ;
 /* my own utilities */
 int compare_double(const void *a, const void *b) ;
 
+/* my own definitions */
+#ifndef _List_H
+struct Node ;
+typedef struct Node *PtrToNode ;
+typedef PtrToNode List ;
+typedef PtrToNode Position ;
+
+struct Node
+{
+	csi x ;
+	Position Next ;
+} ;
+
+List MakeEmpty(List L) ;
+void Insert(csi x, List L, Position P) ;
+void DeleteList(List L) ;
+void Delete(csi x, List L) ;
+int IsEmpty(List L) ;
+#endif	/* _List_H */
+
 #define CS_MAX(a,b) (((a) > (b)) ? (a) : (b))
 #define CS_MIN(a,b) (((a) < (b)) ? (a) : (b))
 #define CS_FLIP(i) (-(i)-2)
