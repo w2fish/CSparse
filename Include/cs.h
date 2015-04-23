@@ -162,6 +162,7 @@ int cs_issorted(cs *A) ;
 int cs_issym(cs *A) ;
 csi cs_lsolvecp(const cs *L, double *x) ;
 csi cs_lsolverp(const cs *L, double *x) ;
+csi cs_lusolvep2 (cs *A, double *x, csi lo) ;
 cs *cs_multiply2 (const cs *A, const cs *B) ;
 cs *cs_multiply3 (const cs *A, const cs *B) ;
 int cs_ok(cs *A, int sorted, int values, int print) ;
@@ -204,6 +205,7 @@ List MakeEmpty(List L) ;
 void Insert(csi x, List L, Position P) ;
 void DeleteList(List L) ;
 void Delete(csi x, List L) ;
+List DeleteFirst(List L) ;
 int IsEmpty(List L) ;
 #endif	/* _List_H */
 

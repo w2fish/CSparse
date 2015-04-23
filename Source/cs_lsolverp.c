@@ -11,28 +11,31 @@ csi cs_lsolverp(const cs *L, double *x)
 	}
 	csi j, p, n ;
 	csi *Li = NULL, *Lp = NULL ;
-	csi *w = NULL, *v = NULL ;
+	csi *w = NULL, *v = NULL, *pinv = NULL ;
 	double *Lx = NULL ;
 	n = L->n ; Li = L->i ; Lp = L->p ; Lx = L->x ;
 	/* allocate workspace w, length n */
 	w = cs_malloc(n, sizeof(csi)) ;
 	v = cs_calloc(n, sizeof(csi)) ;
-	if (!w || !v)
+	pinv = cs_malloc(n, sizeof(csi)) ;
+	if (!w || !v || !pinv)
 	{
-		printf("allocate w or v fail, quit\n") ; return 0 ;
+		printf("allocate w or v or pinv fail, quit\n") ; return 0 ;
 	}
 	for (j=0; j<n; j++) w[j] = -1 ; /* initialize w to -1 */
-	/* find out diagonal entry in each col, put in w */
+	/* find out element-index of diagonal entry in each col, put in w */
 	for (j=n-1; j>=0; j--)
 	{
 		for (p=Lp[j]; p<Lp[j+1]; p++)
 		{
-			if (!v[Li[p]])
+			if (!v[Li[p]]) /* if diagonal entry of row Li[p] is not marked yet */
 			{
 				if (w[j] < 0) 
 				{
 					w[j] = p ;
-					v[Li[p]] = 1 ;
+					v[Li[p]] = 1 ; /* mark row Li[p] */
+					pinv[Li[p]] = j ; /* current row t is row 
+							     pinv[t] before permute */
 				}
 				else
 				{
@@ -59,13 +62,15 @@ csi cs_lsolverp(const cs *L, double *x)
 		{
 			if (p != w[j])
 			{
-				x[Li[p]] -= x[j] * Lx[p] ;
+				/*x[Li[p]] -= x[j] * Lx[p] ;*/
+				x[pinv[Li[p]]] -= x[j] * Lx[p] ;
 			}
 		}
 	}
 	/* release */
 	w = cs_free(w) ;
 	v = cs_free(v) ;
+	pinv = cs_free(pinv) ;
 
 	return 1 ;
 }

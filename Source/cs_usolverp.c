@@ -11,15 +11,16 @@ csi cs_usolverp(const cs *U, double *x)
 	}
 	csi j, p, n ;
 	csi *Ui = NULL, *Up = NULL ;
-	csi *w = NULL, *v = NULL ;
+	csi *w = NULL, *v = NULL, *pinv = NULL ;
 	double *Ux = NULL ;
 	n = U->n ; Ui = U->i ; Up = U->p ; Ux = U->x ;
 	/* allocate workspace w, length n */
 	w = cs_malloc(n, sizeof(csi)) ;
 	v = cs_calloc(n, sizeof(csi)) ;
-	if (!w || !v)
+	pinv = cs_malloc(n, sizeof(csi)) ;
+	if (!w || !v || !pinv)
 	{
-		printf("allocate w or v fail, quit\n") ; return 0 ;
+		printf("allocate w or v or pinv fail, quit\n") ; return 0 ;
 	}
 	for (j=0; j<n; j++) w[j] = -1 ; /* initialize w to -1 */
 	/* find out diagonal entry in each col, put in w */
@@ -33,6 +34,8 @@ csi cs_usolverp(const cs *U, double *x)
 				{
 					w[j] = p ;
 					v[Ui[p]] = 1 ;
+					pinv[Ui[p]] = j ; /* current row t is row 
+							     pinv[t] before permute */
 				}
 				else
 				{
@@ -59,7 +62,8 @@ csi cs_usolverp(const cs *U, double *x)
 		{
 			if (p != w[j])
 			{
-				x[Ui[p]] -= x[j] * Ux[p] ;
+				/*x[Ui[p]] -= x[j] * Ux[p] ;*/
+				x[pinv[Ui[p]]] -= x[j] * Ux[p] ;
 			}
 		}
 	}

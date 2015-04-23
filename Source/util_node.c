@@ -7,7 +7,7 @@ void Insert(csi x, List L, Position P)
 	{
 		printf("allocate Node fail, quit\n") ; return NULL ;
 	}
-	TmpCell->Element = x ;
+	TmpCell->x = x ;
 	TmpCell->Next = P->Next ;
 	P->Next = TmpCell ;
 }
