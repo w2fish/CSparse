@@ -41,10 +41,8 @@ int main(int argc, char * argv[])
 		{
 			for(j=0; j<n; j++)
 			{
-				t = rand() % 10 -4  ;
-				ti = rand() % m ;
-				tj = rand() % n ;
-				fprintf(fp, "%d\t%d\t%d\n", i, j, t) ;
+				t = rand() % 10 +1  ;
+				if (i>=j) fprintf(fp, "%d\t%d\t%d\n", i, j, t) ;
 			}
 		}
 	}

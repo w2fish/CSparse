@@ -2,6 +2,10 @@
 /* Tim.D. book, ex3.8 */
 /* another version of cs_lsolve, reduce time if b has zero entries */
 /* solve Lx=b where x and b are dense.  x=b on input, solution on output. */
+/* It turns out time saved by cs_lsolve2 really depends on how many x[j] is
+   still ZERO during calculation, varies from
+   0%: when the first few b[j] is nonzero to
+   100%: when the last few b[j] is nonzero  */
 #include "cs.h"
 csi cs_lsolve2 (const cs *L, double *x)
 {
