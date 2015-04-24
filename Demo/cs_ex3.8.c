@@ -1,19 +1,18 @@
-/* 20150419 */
-/* test cs_usolvecp */
-/* solve Ux=b where x and b are dense.  x=b on input, solution on output. */
-/* another version of cs_usovle that cols of U is permuted */
-/* last entry in each col has the largest row index */
+/* 20150424 */
+/* test cs_lsolve2 */
+/* another version of cs_lsolve, reduce time if b has zero entries */
+/* solve Lx=b where x and b are dense.  x=b on input, solution on output. */
 #include "cs.h"
 int main(int argc, char * argv[])
 {
 	int print = atoi(argv[1]) ;
-	cs *T = NULL, *U = NULL ;
+	cs *T = NULL, *L = NULL ;
 	char fileMatrix[256] = "fileMatrix" ;
 	char fileVectorX[256] = "fileVectorX" ;
 	FILE *fp ;
 	csi j, n, flag ;
 	double *x ;
-	/* load U */
+	/* load L */
 	fp = fopen(fileMatrix, "r") ;
 	if (!fp)
 	{
@@ -25,9 +24,9 @@ int main(int argc, char * argv[])
 	{
 		printf("load T fail, quit\n") ; return 0 ;
 	}
-	U = cs_compress(T) ;
+	L = cs_compress(T) ;
 	T = cs_spfree(T) ;
-	n = U->n ;
+	n = L->n ;
 	/* allocate x */
 	x = cs_malloc(n, sizeof(double)) ;
 	if (!x)
@@ -53,14 +52,14 @@ int main(int argc, char * argv[])
 			printf("%lf\t", x[j]) ;
 		}
 		printf("\n") ;
-		printf("U = \n") ; cs_print(U, 0) ;
+		printf("L = \n") ; cs_print(L, 0) ;
 	}
-	/* solve U * x = b */
-	flag = cs_usolvecp(U, x) ;
+	/* solve L * x = b */
+	flag = cs_lsolverp(L, x) ;
 	if (!flag)
 	{
-		printf("cs_usolvecp fail, quit\n") ;
-		U = cs_spfree(U) ;
+		printf("cs_lsolverp fail, quit\n") ;
+		L = cs_spfree(L) ;
 		x = cs_free(x) ;
 		return 0 ;
 	}
@@ -75,7 +74,7 @@ int main(int argc, char * argv[])
 		printf("\n") ;
 	}
 	/* releas */
-	U = cs_spfree(U) ;
+	L = cs_spfree(L) ;
 	x = cs_free(x) ;
 
 	return 0 ;

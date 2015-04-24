@@ -24,12 +24,8 @@ csi cs_lsolvecp(const cs *L, double *x)
 	/* find out col index, put in w */
 	for (j=0; j<n; j++)
 	{
-		p = n - (Lp[j+1] - Lp[j]) ;
-		if (p > n)
-		{
-			printf("too few entry in col %d, quit\n", (int)j) ; return 0 ;
-		}
-		w[p] = j ;
+		k = Li[Lp[j]] ; /* diagonal entry */
+		w[k] = j ; /* old col k permuted to col j */
 	}
 	/* solve L * x = b */
 	for (k=0; k<n; k++)

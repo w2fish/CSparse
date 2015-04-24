@@ -2,7 +2,7 @@
 /* Tim.D. book, ex3.6 */
 /* solve Ux=b where x and b are dense.  x=b on input, solution on output. */
 /* another version of cs_usovle that cols of U is permuted */
-/* 1st entry in each col has the smallest row index */
+/* last entry in each col has the largest row index */
 #include "cs.h"
 csi cs_usolvecp(const cs *U, double *x)
 {
@@ -24,12 +24,8 @@ csi cs_usolvecp(const cs *U, double *x)
 	/* find out col index, put in w */
 	for (j=0; j<n; j++)
 	{
-		p = Up[j+1] - Up[j] - 1 ;
-		if (p < 0)
-		{
-			printf("too few entry in col %d, quit\n", (int)j) ; return 0 ;
-		}
-		w[p] = j ;
+		k = Ui[Up[j+1]-1] ; /* diagonal entry */
+		w[k] = j ; /* old col k permuted to col j */
 	}
 	/* solve U * x = b */
 	for (k=n-1; k>=0; k--)

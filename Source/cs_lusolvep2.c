@@ -40,7 +40,7 @@ csi cs_lusolvep2 (cs *A, double *x, csi lo)
 	}
 	/* find out permutation vector p, q, 
 	 * lo=1:   p: move row i in p[i];        q: move col i in q[i]
-	 * lo=0:   p: move row (n-i0) in p[i];  q: move col (n-i0) in q[i] */
+	 * lo=0:   p: move row (n-i-1) in p[i];  q: move col (n-i-1) in q[i] */
 	for (k=0; k<n; k++)
 	{
 		if (IsEmpty(L)) return 0 ; /* A bad */

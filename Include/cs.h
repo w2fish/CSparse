@@ -160,6 +160,7 @@ cs *cs_find (const cs *A) ;
 cs *cs_hcat(const cs *A, const cs *B) ;
 int cs_issorted(cs *A) ;
 int cs_issym(cs *A) ;
+csi cs_lsolve2 (const cs *L, double *x) ;
 csi cs_lsolvecp(const cs *L, double *x) ;
 csi cs_lsolverp(const cs *L, double *x) ;
 csi cs_lusolvep2 (cs *A, double *x, csi lo) ;
