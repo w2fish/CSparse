@@ -34,6 +34,7 @@ int main(int argc, char * argv[])
 		printf("load T fail, quit\n") ; return 0 ;
 	}
 	L = cs_compress(T) ;
+	L = cs_sort(L) ; /* sort column wise */
 	T = cs_spfree(T) ;
 	n = L->n ;
 	/* allocate x */

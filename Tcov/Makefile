@@ -15,7 +15,7 @@ ex: $(CS) cs_ex2.1 cs_ex2.2 cs_ex2.3 cs_ex2.4 cs_ex2.5 \
 	cs_ex2.16 cs_ex2.18 cs_ex2.19 cs_ex2.20 cs_ex2.21 \
 	cs_ex2.22 cs_ex2.23 cs_ex2.24 cs_ex2.25 cs_ex2.26 \
 	cs_ex2.27 cs_ex2.28 cs_ex2.29 cs_ex3.3 cs_ex3.4 \
-	cs_ex3.5 cs_ex3.6 cs_ex3.7 cs_ex3.8 cs_ex4.1 \
+	cs_ex3.5 cs_ex3.6 cs_ex3.7 cs_ex3.8 cs_ex4.1 cs_ex4.3 \
 	test_cs_expand test_create_fileMatrix
 	find . -name "*.gcda" | xargs -r rm
 	find . -name "*.gcov" | xargs -r rm
@@ -41,7 +41,7 @@ CS = cs_add.o cs_amd.o cs_chol.o cs_cholsol.o cs_counts.o cs_cumsum.o \
 	cs_gaxpy_symm.o cs_gaxpy_triplet.o \
 	cs_gaxpym.o cs_find.o cs_hcat.o \
 	cs_issorted.o cs_issym.o cs_lsolve2.o \
-	cs_lsolvecp.o cs_lsolverp.o cs_lusolvep2.o \
+	cs_lsolvecp.o cs_lsolvesp.o cs_lsolverp.o cs_lusolvep2.o \
 	cs_multiply2.o cs_multiply3.o \
 	cs_ok.o cs_permtranspose.o cs_saxpy.o cs_scale.o \
 	cs_scatter2.o cs_sort.o cs_sort2.o \
@@ -194,6 +194,9 @@ cs_ex3.8: $(CS) cs_ex3.8.c
 
 cs_ex4.1: $(CS) cs_ex4.1.c
 	$(CC) $(CFLAGS) -o cs_ex4.1 cs_ex4.1.c $(CS) -lm
+
+cs_ex4.3: $(CS) cs_ex4.3.c
+	$(CC) $(CFLAGS) -o cs_ex4.3 cs_ex4.3.c $(CS) -lm
 
 cstcov_test: $(CS) cstcov_test.c cs_demo.c
 	$(CC) $(CFLAGS) -o cstcov_test cstcov_test.c cs_demo.c $(CS) -lm

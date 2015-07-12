@@ -29,7 +29,7 @@ csi main()
 	A = cs_compress(T) ;
 	T = cs_spfree(T) ;
 	n = A->n ;
-	/* prcsi A */
+	/* print A */
 	printf("A:\n") ;
 	cs_print(A, 0) ;
 	/* initialize */
@@ -51,6 +51,11 @@ csi main()
 	printf("\ncc\n");
 	for (j=0; j<n; j++) printf("%d  ", cc[j]);
 	printf("\n\n") ;
+	/* print parent to file */
+	char fileParent[256] = "parent" ;
+	fp = fopen(fileParent, "w") ;
+	for (j=0; j<n; j++) fprintf(fp, "%d  ", parent[j]);
+	fclose(fp) ;
 	/* free */
 	A = cs_spfree(A) ;
 	parent = cs_free(parent) ;
